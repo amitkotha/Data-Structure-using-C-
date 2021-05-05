@@ -1,0 +1,13 @@
+C:\Users\amitkotha\source\repos\Data Structure using C#\Linked List\Linked List\Linked List\obj\Debug\netcoreapp3.1\Linked List.csprojAssemblyReference.cache
+C:\Users\amitkotha\source\repos\Data Structure using C#\Linked List\Linked List\Linked List\obj\Debug\netcoreapp3.1\Linked List.AssemblyInfoInputs.cache
+C:\Users\amitkotha\source\repos\Data Structure using C#\Linked List\Linked List\Linked List\obj\Debug\netcoreapp3.1\Linked List.AssemblyInfo.cs
+C:\Users\amitkotha\source\repos\Data Structure using C#\Linked List\Linked List\Linked List\obj\Debug\netcoreapp3.1\Linked List.csproj.CoreCompileInputs.cache
+C:\Users\amitkotha\source\repos\Data Structure using C#\Linked List\Linked List\Linked List\bin\Debug\netcoreapp3.1\Linked List.exe
+C:\Users\amitkotha\source\repos\Data Structure using C#\Linked List\Linked List\Linked List\bin\Debug\netcoreapp3.1\Linked List.deps.json
+C:\Users\amitkotha\source\repos\Data Structure using C#\Linked List\Linked List\Linked List\bin\Debug\netcoreapp3.1\Linked List.runtimeconfig.json
+C:\Users\amitkotha\source\repos\Data Structure using C#\Linked List\Linked List\Linked List\bin\Debug\netcoreapp3.1\Linked List.runtimeconfig.dev.json
+C:\Users\amitkotha\source\repos\Data Structure using C#\Linked List\Linked List\Linked List\bin\Debug\netcoreapp3.1\Linked List.dll
+C:\Users\amitkotha\source\repos\Data Structure using C#\Linked List\Linked List\Linked List\bin\Debug\netcoreapp3.1\Linked List.pdb
+C:\Users\amitkotha\source\repos\Data Structure using C#\Linked List\Linked List\Linked List\obj\Debug\netcoreapp3.1\Linked List.dll
+C:\Users\amitkotha\source\repos\Data Structure using C#\Linked List\Linked List\Linked List\obj\Debug\netcoreapp3.1\Linked List.pdb
+C:\Users\amitkotha\source\repos\Data Structure using C#\Linked List\Linked List\Linked List\obj\Debug\netcoreapp3.1\Linked List.genruntimeconfig.cache
