@@ -21,12 +21,18 @@ namespace LinkedLists
             linkedList.Append("Third Node");
             linkedList.PrintList();
 
-            linkedList.Tail.Next = find;
+            
 
             DetectLoop detectLoop = new DetectLoop();
             Console.WriteLine(detectLoop.LoopCount(linkedList));
             
             Console.ReadLine();
+
+
+            Console.WriteLine("Testing the Reverse Linked List functionality");
+            linkedList.Reverse();
+            linkedList.PrintList();
+
         }
     }
 }

@@ -147,5 +147,28 @@ namespace LinkedLists
             Length--;
         }
 
+        public void Reverse()
+        {
+            
+            if (Length == 1)
+            {
+                return;
+            }
+            Node previousPointer = null;
+            Node currentPointer = Head;
+            Node nextPointer = null;
+            Tail = currentPointer;
+            while (currentPointer != null)
+            {
+
+                nextPointer = currentPointer.Next;
+                currentPointer.Next = previousPointer;
+                previousPointer = currentPointer;
+                currentPointer = nextPointer;
+
+            }
+            Head = previousPointer;
+
+        }
     }
 }
